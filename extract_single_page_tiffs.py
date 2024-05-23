@@ -70,8 +70,8 @@ def main():
     日本語:
     ソースフォルダーと宛先フォルダーを定義し、抽出プロセスを開始するメイン関数。
     """
-    source_folder = r"c:\Users\yikang.li\OneDrive - Accenture\デスクトップ\Cognite\P&ID\千葉LX装置_静機械\千葉LX装置_静機械\files"
-    destination_folder = r"c:\Users\yikang.li\OneDrive - Accenture\デスクトップ\Cognite"
+    source_folder = "xxxx"
+    destination_folder = "xxxx"
 
     # Ensure paths are absolute paths
     source_folder = os.path.abspath(source_folder)
